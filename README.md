@@ -13,7 +13,7 @@ GeoTrans main physical facility is a suite in Ellison Hall. Since 2004 GeoTrans 
 - Python and R on cloud: 
 These are very useful tools offered by the department and Earth Research Institute (ERI) to do heavy computing jobs on the cloud.  
     - First thing to do is to requst an account for yourself. You may send an email to help@eri.ucsb.edu and cc Kostas. 
-    - [VPN](https://www.it.ucsb.edu/vpn): All servers can be accessed remotely as long as you have connected campus VPN (even if you are using the campus Wi-Fi, you still need to turn on VPN). Everything regarding how to install VPN and how to use can be found in via the link.
+    - [VPN](https://www.it.ucsb.edu/vpn): All servers can be accessed remotely as long as you have connected campus VPN (even if you are using the campus Wi-Fi, you still need to turn on VPN). Everything regarding how to install VPN and how to use can be found via the link.
     - [Jupyter](https://wiki-sysadm.eri.ucsb.edu/Jupyter): Jupyter notebook on the server is the most convenient way to run python scripts.
     - [R](https://wiki-sysadm.eri.ucsb.edu/R): They also offer R Studio on the server. 
 
