@@ -17,7 +17,7 @@ These are very useful tools offered by the department and Earth Research Institu
 
 - [Box](https://ucsb.app.box.com/) for cloud storage: We use Box to store and share digital products including papers, code and data. You can acess Box with your UCSB credential. 
 
-- [Overleaf](https://www.overleaf.com/): This is main software we use to write paper. Only the PI can request a <a href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfuuV4gZ-Bb1QPA02of398l1_1Wy6ZRhNBW90JnQ10TBQbmBA/viewform" target="_blank">professional account</a> for the lab graduate students. A professional account will allow you to track changes when collaborating on projects and unlimited historical version access.  
+- [Overleaf](https://www.overleaf.com/): Overleaf is an online LaTeX editor we use to write papers together. If you haven't used LaTex before, you may find tutorials online easily. Only the PI can request a <a href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSfuuV4gZ-Bb1QPA02of398l1_1Wy6ZRhNBW90JnQ10TBQbmBA/viewform" target="_blank">professional account</a> for the lab graduate students. A professional account will allow you to track changes when collaborating on projects and unlimited historical version access.  
 
 
 - Publishing your research: Gradute students can apply [UCSB Open Access Publishing Fund](https://www.library.ucsb.edu/ucsb-open-access-publishing-fund) to cover the fee to make your research open to public.
