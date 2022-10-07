@@ -7,7 +7,8 @@ GeoTrans main physical facility is a suite in Ellison Hall. Since 2004 GeoTrans 
 
 
 ## 2. Things to know
-- Update your profile on [Geotrans website](https://geotrans.geog.ucsb.edu/people.html): You may request access to this github repo from Kostas. Once you do that, you will have permission to update the website such as create your own profile and post news and publications.
+- Update your profile on [Geotrans website](https://geotrans.geog.ucsb.edu/people.html): You may request access to this github repo from Kostas. Once you do that, you will have permission to update the website such as create your own profile and post news and publications. 
+How to update: https://docs.google.com/document/d/1me8gjl_t4Zz2MAobrwtXPI1bEzFD1Vk7XtDkSAOnzf8/edit?usp=sharing
 
 
 - Python and R on cloud: 
