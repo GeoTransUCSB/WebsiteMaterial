@@ -13,12 +13,12 @@ How to update: https://docs.google.com/document/d/1me8gjl_t4Zz2MAobrwtXPI1bEzFD1
 
 - Python and R on cloud: 
 These are very useful tools offered by the department and Earth Research Institute (ERI) to do heavy computing jobs on the cloud.  
-    - First thing to do is to requst an account for yourself. You may send an email to help@eri.ucsb.edu and cc Kostas. 
+    - First thing to do is to request an account for yourself. You may send an email to help@eri.ucsb.edu and cc Kostas. 
     - [VPN](https://www.it.ucsb.edu/vpn): All servers can be accessed remotely as long as you have connected campus VPN (even if you are using the campus Wi-Fi, you still need to turn on VPN). Everything regarding how to install VPN and how to use can be found via the link.
     - [Jupyter](https://wiki-sysadm.eri.ucsb.edu/Jupyter) (VPN required to access this page): Jupyter notebook on the server is the most convenient way to run python scripts.
     - [R](https://wiki-sysadm.eri.ucsb.edu/R) (VPN required to access this page): They also offer R Studio on the server. 
 
-- [Box](https://ucsb.app.box.com/) for cloud storage: We use Box to store and share digital products including papers, code and data. You can acess Box with your UCSB credential. 
+- [Box](https://ucsb.app.box.com/) for cloud storage: We use Box to store and share digital products including papers, code and data. You can access Box with your UCSB credential. 
 
 - [Overleaf](https://www.overleaf.com/): Overleaf is an online LaTeX editor we use to write papers together. If you haven't used LaTex before, you may find tutorials online easily. 
     - You will need your UCSB credential to register an account on overleaf. 
@@ -26,5 +26,5 @@ These are very useful tools offered by the department and Earth Research Institu
     - Link to your local reference managers: You can link Mendeley or Zotero on your personal computer to your overleaf account. See the instruction [here](https://www.overleaf.com/learn/how-to/How_to_link_your_Overleaf_account_to_Mendeley_and_Zotero).
 
 
-- Publishing your research: Gradute students can apply [UCSB Open Access Publishing Fund](https://www.library.ucsb.edu/ucsb-open-access-publishing-fund) to cover the publication fee to make your research open access.
+- Publishing your research papers: Graduate students can apply [UCSB Open Access Publishing Fund](https://www.library.ucsb.edu/ucsb-open-access-publishing-fund) to cover the publication fee to make your research open access in certain journals listed in [DOAJ](https://doaj.org/). If you are publishing paper on Elsevier, the [agreement](https://osc.universityofcalifornia.edu/for-authors/publishing-discounts/elsevier-oa-agreement/) between UC libraries and Elsevier says the article publishing charge will be covered by the UC libraries if you indicate not sufficient funding for this charge.
 
